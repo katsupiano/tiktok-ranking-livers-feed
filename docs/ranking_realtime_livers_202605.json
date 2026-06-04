@@ -23,6 +23,8 @@
       "source": "アルファ",
       "isCurrentAgency": true,
       "rank": 1,
+      "managerDisplay": "漣",
+      "excludedFromLivers": false,
       "displayRank": 1
     },
     {
@@ -45,6 +47,8 @@
       "source": "アルファ",
       "isCurrentAgency": true,
       "rank": 2,
+      "managerDisplay": "漣",
+      "excludedFromLivers": false,
       "displayRank": 2
     },
     {
@@ -67,6 +71,8 @@
       "source": "アルファ",
       "isCurrentAgency": true,
       "rank": 5,
+      "managerDisplay": "今西",
+      "excludedFromLivers": false,
       "displayRank": 3
     },
     {
@@ -89,6 +95,8 @@
       "source": "アルファ",
       "isCurrentAgency": true,
       "rank": 6,
+      "managerDisplay": "堤",
+      "excludedFromLivers": false,
       "displayRank": 4
     },
     {
@@ -111,6 +119,8 @@
       "source": "アルファ",
       "isCurrentAgency": true,
       "rank": 7,
+      "managerDisplay": "今西",
+      "excludedFromLivers": false,
       "displayRank": 5
     },
     {
@@ -133,6 +143,8 @@
       "source": "アルファ",
       "isCurrentAgency": true,
       "rank": 8,
+      "managerDisplay": "今西",
+      "excludedFromLivers": false,
       "displayRank": 6
     },
     {
@@ -155,6 +167,8 @@
       "source": "アルファ",
       "isCurrentAgency": true,
       "rank": 10,
+      "managerDisplay": "漣",
+      "excludedFromLivers": false,
       "displayRank": 7
     },
     {
@@ -177,6 +191,8 @@
       "source": "アルファ",
       "isCurrentAgency": true,
       "rank": 12,
+      "managerDisplay": "田中",
+      "excludedFromLivers": false,
       "displayRank": 8
     },
     {
@@ -199,6 +215,8 @@
       "source": "アルファ",
       "isCurrentAgency": true,
       "rank": 15,
+      "managerDisplay": "滝澤",
+      "excludedFromLivers": false,
       "displayRank": 9
     },
     {
@@ -221,6 +239,8 @@
       "source": "アルファ",
       "isCurrentAgency": true,
       "rank": 16,
+      "managerDisplay": "堤",
+      "excludedFromLivers": false,
       "displayRank": 10
     },
     {
@@ -243,6 +263,8 @@
       "source": "アルファ",
       "isCurrentAgency": true,
       "rank": 17,
+      "managerDisplay": "今西",
+      "excludedFromLivers": false,
       "displayRank": 11
     },
     {
@@ -265,6 +287,8 @@
       "source": "アルファ",
       "isCurrentAgency": true,
       "rank": 18,
+      "managerDisplay": "田中",
+      "excludedFromLivers": false,
       "displayRank": 12
     },
     {
@@ -287,6 +311,8 @@
       "source": "アルファ",
       "isCurrentAgency": true,
       "rank": 19,
+      "managerDisplay": "今西",
+      "excludedFromLivers": false,
       "displayRank": 13
     },
     {
@@ -309,6 +335,8 @@
       "source": "ユリシス",
       "isCurrentAgency": true,
       "rank": 20,
+      "managerDisplay": "滝澤",
+      "excludedFromLivers": false,
       "displayRank": 14
     },
     {
@@ -331,6 +359,8 @@
       "source": "ユリシス",
       "isCurrentAgency": true,
       "rank": 22,
+      "managerDisplay": "滝澤",
+      "excludedFromLivers": false,
       "displayRank": 15
     },
     {
@@ -353,6 +383,8 @@
       "source": "アルファ",
       "isCurrentAgency": true,
       "rank": 23,
+      "managerDisplay": "今西",
+      "excludedFromLivers": false,
       "displayRank": 16
     },
     {
@@ -375,6 +407,8 @@
       "source": "アルファ",
       "isCurrentAgency": true,
       "rank": 24,
+      "managerDisplay": "今西",
+      "excludedFromLivers": false,
       "displayRank": 17
     },
     {
@@ -397,6 +431,8 @@
       "source": "アルファ",
       "isCurrentAgency": true,
       "rank": 25,
+      "managerDisplay": "堤",
+      "excludedFromLivers": false,
       "displayRank": 18
     },
     {
@@ -419,28 +455,32 @@
       "source": "アルファ",
       "isCurrentAgency": true,
       "rank": 26,
+      "managerDisplay": "今西",
+      "excludedFromLivers": false,
       "displayRank": 19
     },
     {
-      "anchorId": "6589833481017655298",
-      "nickname": "ねむ❤️🐈👗",
-      "username": "ponta52",
-      "avatar": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/b20676c5c7cad5896cd50c2cd7def035~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=b303b629&x-expires=1780448400&x-signature=87NHUT6rH1cJqq0YP1Mh05ZHRME%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=d2876c74&idc=my2",
+      "anchorId": "6860349345574896641",
+      "nickname": "宮城ねね🐮🫛",
+      "username": "nene_miyagi",
+      "avatar": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/9ec3ec7b8d24f190a48abb16c1ff724c~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=f1cb7fc5&x-expires=1780448400&x-signature=Qv7knD7dyGvBdszjzFLPJdwxNyw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=d2876c74&idc=my2",
       "isLive": false,
-      "totalDiamonds": 1176355,
-      "lastMonthDiamonds": 1172800,
-      "pkDiamondsMtd": 509503,
-      "broadcastDays": 26,
-      "broadcastDurationHours": 107.39027777777778,
-      "contributionBonusUSD": 352.9065,
-      "lastMonthContributionBonusUSD": 351.84,
-      "group": "アルファ",
-      "manager": "katsuaki.takizawa.grove",
-      "managerRaw": "katsuaki.takizawa.grove",
-      "agent": "katsuaki.takizawa.grove",
-      "source": "ユリシス",
+      "totalDiamonds": 1242594,
+      "lastMonthDiamonds": 231741,
+      "pkDiamondsMtd": 833659,
+      "broadcastDays": 12,
+      "broadcastDurationHours": 66.92722222222223,
+      "contributionBonusUSD": 62.1297,
+      "lastMonthContributionBonusUSD": 11.587,
+      "group": "Bcode社内",
+      "manager": "taiyo.fujita",
+      "managerRaw": "taishi.kobayashi",
+      "agent": "taiyo.fujita",
+      "source": "アルファ",
       "isCurrentAgency": true,
-      "rank": 29,
+      "rank": 28,
+      "managerDisplay": "藤田",
+      "excludedFromLivers": false,
       "displayRank": 20
     }
   ]
